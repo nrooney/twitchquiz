@@ -75,23 +75,23 @@
     "t": "10000"
   },
   {
-    "q": "q5",
-    "a": "a5",
+    "q": "What is the name of Yuna's first Summon in Final Fantasy X?",
+    "a": "Valefor",
+    "t": "10000"
+  },
+  {
+    "q": "Which Final Fantasy enemy uses the move 'Bad Breath'",
+    "a": "Malboro",
     "t": "12000"
   },
   {
-    "q": "q5",
-    "a": "a5",
+    "q": "Nearly every Final Fantasy has a character with this name, what is it?",
+    "a": "Cid",
     "t": "12000"
   },
   {
-    "q": "q5",
-    "a": "a5",
-    "t": "12000"
-  },
-  {
-    "q": "q5",
-    "a": "a5",
+    "q": "Princess Peach used to be called 'Princess Toadstool' in Europe and the Americas, when did we first here her name as 'Peach'?",
+    "a": "In the letter at the opening of Super Mario 64",
     "t": "12000"
   },
   {
@@ -105,8 +105,8 @@
     "t": "12000"
   },
   {
-    "q": "q5",
-    "a": "a5",
-    "t": "12000"
+    "q": "What does a P-Wing stand for?",
+    "a": "Paratrooper Wing",
+    "t": "10000"
   }
 ]
