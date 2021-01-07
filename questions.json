@@ -220,18 +220,68 @@
     "t": "10000"
   },
   {
-    "q": "?",
-    "a": "",
+    "q": "In The Legend of Zelda, who is the Hero's Spirit who teaches link moves?",
+    "a": "Hero of Time Link",
+    "t": "10000"
+  },
+  {
+    "q": "In The Legend of Zelda: Majora's Mask, what curse has happened to Kafei?",
+    "a": "He's been turned into a child",
+    "t": "10000"
+  },
+  {
+    "q": "How old is Tingle?",
+    "a": "35",
+    "t": "10000"
+  },
+  {
+    "q": "Which Zelda character was added to Super Smash Bros. as a palatte swap of Captain Falcon?",
+    "a": "Captain Falcon",
     "t": "10000"
   },
   {
     "q": "?",
-    "a": "",
+    "a": "35",
     "t": "10000"
   },
   {
     "q": "?",
-    "a": "",
+    "a": "35",
+    "t": "10000"
+  },
+  {
+    "q": "?",
+    "a": "35",
+    "t": "10000"
+  },
+  {
+    "q": "?",
+    "a": "35",
+    "t": "10000"
+  },
+  {
+    "q": "?",
+    "a": "35",
+    "t": "10000"
+  },
+  {
+    "q": "?",
+    "a": "35",
+    "t": "10000"
+  },
+  {
+    "q": "?",
+    "a": "35",
+    "t": "10000"
+  },
+  {
+    "q": "?",
+    "a": "35",
+    "t": "10000"
+  },
+  {
+    "q": "?",
+    "a": "35",
     "t": "10000"
   }
 ]
