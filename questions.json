@@ -270,18 +270,13 @@
     "t": "10000"
   },
   {
-    "q": "?",
-    "a": "35",
+    "q": "In The Legend of Zelda: Ocarina of Time, what song do you learn from the man in the Windmill?",
+    "a": "The Song of Storms",
     "t": "10000"
   },
   {
-    "q": "?",
-    "a": "35",
-    "t": "10000"
-  },
-  {
-    "q": "?",
-    "a": "35",
-    "t": "10000"
+    "q": "Gohma is a reoccuring enemy in the Legend of Zelda series, which games feature Gohma as a dungeon boss?",
+    "a": "Ocarina of Time, Wind Waker, Twilight Princess",
+    "t": "18000"
   }
 ]
