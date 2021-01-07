@@ -40,18 +40,18 @@
     "t": "10000"
   },
   {
-    "q": "q5",
-    "a": "a5",
+    "q": "What year was Nintendo founded?",
+    "a": "1889",
     "t": "12000"
   },
   {
-    "q": "q5",
-    "a": "a5",
+    "q": "What video game company collaborated with SONY on the Playstation?",
+    "a": "Nintendo. The original plan was to make an add-on to the SNES, but the deal fell apart.",
     "t": "12000"
   },
   {
-    "q": "q5",
-    "a": "a5",
+    "q": "Mario was in the original Donkey Kong game, but he wasn't called Mario. What was his name?",
+    "a": "Jump Man",
     "t": "12000"
   },
   {
