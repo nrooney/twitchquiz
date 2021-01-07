@@ -15,23 +15,48 @@
     "t": "12000"
   },
   {
-    "q": "q3",
-    "a": "a3",
-    "t": "13000"
+    "q": "The original Sonic the Hedgehog game was released on the Sega Genesis in which year?",
+    "a": "1991",
+    "t": "12000"
   },
   {
-    "q": "q4",
-    "a": "a4",
-    "t": "14000"
+    "q": "In which year was Final Fantasy VII, Mario Kart 64, Castlevania: Symphony of the Night, GoldenEye 007, Curse of Monkey Island AND Theme Hospital released?",
+    "a": "1997. Possibly the best year in video game history.",
+    "t": "12000"
   },
   {
     "q": "q5",
     "a": "a5",
-    "t": "15000"
+    "t": "12000"
   },
   {
-    "q": "q6",
-    "a": "a6",
-    "t": "16000"
+    "q": "q5",
+    "a": "a5",
+    "t": "12000"
+  },
+  {
+    "q": "q5",
+    "a": "a5",
+    "t": "12000"
+  },
+  {
+    "q": "q5",
+    "a": "a5",
+    "t": "12000"
+  },
+  {
+    "q": "q5",
+    "a": "a5",
+    "t": "12000"
+  },
+  {
+    "q": "What's the name of Crash Bandicoot's sister?",
+    "a": "Coco",
+    "t": "12000"
+  },
+  {
+    "q": "q5",
+    "a": "a5",
+    "t": "12000"
   }
 ]
